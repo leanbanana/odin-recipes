@@ -1,0 +1,1 @@
+This project will help me to understand basic HTML design and eventually how to implement CSS
